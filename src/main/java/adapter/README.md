@@ -1,4 +1,4 @@
-# Адаптер (adapter, wrapper)
+# Адаптер (Adapter, Wrapper)
 
 **Адаптер** - это структурный паттерн, который позволяет взаимодействовать объектам с несовместимыми интерфейсами.
 
@@ -52,4 +52,4 @@ class ClassAdapter extends Adaptee implements Target {
 
 **Итоговая диаграмма классов**:
 
-![img.png](img.png)
+![](images/classes.png)
