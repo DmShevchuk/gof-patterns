@@ -17,3 +17,6 @@
 5. [Facade (Фасад)](src/main/java/facade/README.md)
 6. [Легковес (Flyweight)](src/main/java/flyweight/README.md)
 7. [Заместитель (Proxy)](src/main/java/proxy/README.md)
+
+## Поведенческие
+1. [Цепочка обязанностей (Chain of Responsibility)](src/main/java/chainOfResponsibility/README.md)
