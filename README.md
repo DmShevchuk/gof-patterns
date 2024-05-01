@@ -19,4 +19,6 @@
 7. [Заместитель (Proxy)](src/main/java/proxy/README.md)
 
 ## Поведенческие
+
 1. [Цепочка обязанностей (Chain of Responsibility)](src/main/java/chainOfResponsibility/README.md)
+2. [Команда (Command)](src/main/java/command/README.md)
