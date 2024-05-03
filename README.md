@@ -23,3 +23,4 @@
 1. [Цепочка обязанностей (Chain of Responsibility)](src/main/java/chainOfResponsibility/README.md)
 2. [Команда (Command)](src/main/java/command/README.md)
 3. [Итератор (Iterator)](src/main/java/iterator/README.md)
+4. [Медиатор (Mediator)](src/main/java/mediator/README.md)
