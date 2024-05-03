@@ -24,3 +24,4 @@
 2. [Команда (Command)](src/main/java/command/README.md)
 3. [Итератор (Iterator)](src/main/java/iterator/README.md)
 4. [Медиатор (Mediator)](src/main/java/mediator/README.md)
+5. [Шаблонный метод (Template Method)](src/main/java/templateMethod/README.md)
