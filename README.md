@@ -25,3 +25,4 @@
 3. [Итератор (Iterator)](src/main/java/iterator/README.md)
 4. [Медиатор (Mediator)](src/main/java/mediator/README.md)
 5. [Шаблонный метод (Template Method)](src/main/java/templateMethod/README.md)
+6. [Стратегия (Strategy)](src/main/java/strategy/README.md)
